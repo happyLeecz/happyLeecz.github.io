@@ -1,13 +1,19 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+menu:
+  homepage: /
+  articals: /archives/
 
+subnav:
+  Email: "mailto:1154106524@qq.com"
+  Github: "https://github.com/happyLeecz"
 # Site
-title: Hexo
+title: cz never give up
 subtitle:
-description:
+description: 
 keywords:
-author: John Doe
+author: cz
 language:
 timezone:
 
